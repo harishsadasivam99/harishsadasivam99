@@ -43,11 +43,11 @@ I aspire to become a **Clinical/Healthcare Data Analyst**, contributing to **dat
 
 | **Project**                        | **Description**                                                                  | **Tech**                   |
 | ---------------------------------- | -------------------------------------------------------------------------------- | -------------------------- |
-| **EMR Patient Form**               | Built a functional EMR form connected to MySQL for patient data entry and search | JavaScript, Node.js, MySQL |
+| **EMR Patient Form**               | Building a functional EMR form connected to MySQL for patient data entry and search | JavaScript, Node.js, MySQL |
 | **Car Data Analysis**              | Explored car dataset with analysis and MySQL integration                         | Python, MySQL              |
 | **Mapping Healthcare Survey Data** | Visualizing national health informatics survey data                              | Python, matplotlib         |
 | **ECG Model (Upcoming)**           | ML model for interpreting ECGs in a clinical setting                             | Python, scikit-learn       |
-
+| **Diabetic Data Analysis**         | Exploring car dataset with analysis and MySQL integration                        | Excel, MySQL, Python, matplotlib
 ---
 
 ## 📚 Education
