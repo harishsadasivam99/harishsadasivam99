@@ -64,7 +64,7 @@ I aspire to become a **Clinical/Healthcare Data Analyst**, contributing to **dat
 ## 📫 Connect With Me:
 
 - **Email**: [sadasivamharishkumar@gmail.com](mailto:sadasivamharishkumar@gmail.com)
-- **LinkedIn**: [linkedin.com/in/harishkumar](https://www.linkedin.com/in/harishkumar](https://www.linkedin.com/in/dr-harish-kumar-sadasivam-61083028b/))
+- **LinkedIn**: [linkedin.com/in/harishkumar](www.linkedin.com/in/dr-harish-kumar-sadasivam-61083028b)
 - **Portfolio Website**: [harishkumar.dev](https://harishkumar.dev) *(Coming Soon)*
 
 ---
