@@ -77,7 +77,7 @@ To leverage my **clinical knowledge** and **data analytics expertise** to improv
 
 ## ⚡ Fun Fact
 
-I’m deeply interested in **gastrointestinal (GI) health analytics** and love exploring **health tech innovations** that bridge the gap between **patients and providers** through **data-driven solutions**.
+I’m deeply interested in health analytics** and love exploring **health tech innovations** that bridge the gap between **patients and providers** through **data-driven solutions**.
 
 ---
 
