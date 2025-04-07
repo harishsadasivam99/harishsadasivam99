@@ -35,7 +35,7 @@ I aspire to become a **Clinical/Healthcare Data Analyst**, contributing to **dat
 - Master advanced **data cleaning techniques** using Excel, Python & SQL
 - Build real-world **clinical dashboards**
 - Explore **FHIR & HL7 standards** for interoperability
-- Gain certification in **Health Data Analytics** or **Certified Health Data Analyst (CHDA)**
+- Gain certification in **Fundamentals of Health Research** and **SQL Essential Training (2019)**
 
 ---
 
